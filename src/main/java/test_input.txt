@@ -1,0 +1,4 @@
+Name;Address;Money
+Nguyen Van A;Da Nang;1000.0
+Nguyen Van B;Ha Noi;1200.0
+Nguyen Van C;Ho Chi Minh;1300.0
